@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data-driven professional with 2+ years of experience in operations and analytics across FMCG and logistics. I specialize in transforming complex operational data into actionable insights that drive efficiency and better decision-making.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I’ve delivered measurable impact, including reducing return processing time by 50% and improving data accuracy to ~97%, while identifying cost inefficiencies and stockout risks through analysis.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+My focus is on building effective dashboards, optimizing workflows, and ensuring data reliability, from cleaning to insight delivery. I’m passionate about turning data into clear, practical decisions that create real business value.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -30,8 +30,47 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced SQL for data analysis and query optimization
+- Data storytelling & dashboard design best practices
+- Python for data analysis (pandas, data visualization)
+- Fundamentals of data engineering (data pipeline & ETL concepts)
+
+## 🛠️ Technical Skillset
+
+#### Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Google%20Sheets-Intermediate-34A853?style=flat&logo=google-sheets&logoColor=white" alt="Google Sheets Skill Badge">
+  <img src="https://img.shields.io/badge/Looker%20Studio-Intermediate-4285F4?style=flat&logo=google-looker-studio&logoColor=white" alt="Looker Studio Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+</p>
+
+#### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python%20(pandas%2C%20numpy%2C%20matplotlib)-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+</p>
+
+#### Business Intelligence & Analytics
+<p>
+  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Validation-Intermediate-4ECDC4?style=flat" alt="Data Cleaning Skill Badge">
+  <img src="https://img.shields.io/badge/EDA-Intermediate-45B7D1?style=flat" alt="EDA Skill Badge">
+  <img src="https://img.shields.io/badge/Operational%20Analysis-Intermediate-FF6B6B?style=flat" alt="Operational Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Performance%20Analysis-Intermediate-FFA07A?style=flat" alt="Performance Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-Intermediate-20B2AA?style=flat" alt="Decision Making Skill Badge">
+</p>
+
+#### Systems & Operations
+<p>
+  <img src="https://img.shields.io/badge/ERP%20Systems-Intermediate-6A5ACD?style=flat" alt="ERP Skill Badge">
+  <img src="https://img.shields.io/badge/SAP-Intermediate-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Skill Badge">
+  <img src="https://img.shields.io/badge/Workflow%20Optimization-Intermediate-9370DB?style=flat" alt="Workflow Skill Badge">
+  <img src="https://img.shields.io/badge/Process%20Improvement-Intermediate-3CB371?style=flat" alt="Process Improvement Skill Badge">
+  <img src="https://img.shields.io/badge/Inventory%20Analysis-Intermediate-FF8C00?style=flat" alt="Inventory Skill Badge">
+</p>
+
+---
 
 ## 🛠️ Technical Skillset
 
