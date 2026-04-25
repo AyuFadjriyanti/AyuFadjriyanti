@@ -20,13 +20,13 @@ I’ve delivered measurable impact, including reducing return processing time by
 My focus is on building effective dashboards, optimizing workflows, and ensuring data reliability, from cleaning to insight delivery. I’m passionate about turning data into clear, practical decisions that create real business value.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 My Portfolio](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Supply Chain Optimization Project:** [Analyzing logistics and supplier performance—identified ~1000 unit stockout risk, ~50% delivery delays, and ~50% time gaps across transport modes.]  
+- **Business Performance Dashboard:** [Building KPI dashboards (Looker Studio) for ~4.7M project value—revealed ~46% over-budget projects with up to ~$95K variance.]
+- **Data Analysis Projects (Python & SQL):** [Analyzing 3.7K+ records—identified top 20% products driving ~65% revenue and ~10–15% margin improvement opportunities.]
 
 ## 🌱 Currently Learning 
 
@@ -39,7 +39,7 @@ My focus is on building effective dashboards, optimizing workflows, and ensuring
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?style=flat&logo=google-sheets&logoColor=white" alt="Google Sheets Skill Badge">
   <img src="https://img.shields.io/badge/Looker%20Studio-Intermediate-4285F4?style=flat&logo=google-looker-studio&logoColor=white" alt="Looker Studio Skill Badge">
@@ -48,7 +48,7 @@ My focus is on building effective dashboards, optimizing workflows, and ensuring
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python%20(pandas%2C%20numpy%2C%20matplotlib)-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python%20(pandas%2C%20numpy%2C%20matplotlib)-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
