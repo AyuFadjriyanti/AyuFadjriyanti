@@ -39,9 +39,9 @@ My focus is on building effective dashboards, optimizing workflows, and ensuring
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Google%20Sheets-Intermediate-34A853?style=flat&logo=google-sheets&logoColor=white" alt="Google Sheets Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=posgresql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?style=flat&logo=google-sheets&logoColor=white" alt="Google Sheets Skill Badge">
   <img src="https://img.shields.io/badge/Looker%20Studio-Intermediate-4285F4?style=flat&logo=google-looker-studio&logoColor=white" alt="Looker Studio Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
@@ -54,9 +54,9 @@ My focus is on building effective dashboards, optimizing workflows, and ensuring
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Validation-Intermediate-4ECDC4?style=flat" alt="Data Cleaning Skill Badge">
-  <img src="https://img.shields.io/badge/EDA-Intermediate-45B7D1?style=flat" alt="EDA Skill Badge">
-  <img src="https://img.shields.io/badge/Operational%20Analysis-Intermediate-FF6B6B?style=flat" alt="Operational Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Validation-Experienced-4ECDC4?style=flat" alt="Data Cleaning Skill Badge">
+  <img src="https://img.shields.io/badge/EDA-Experienced-45B7D1?style=flat" alt="EDA Skill Badge">
+  <img src="https://img.shields.io/badge/Operational%20Analysis-Experienced-FF6B6B?style=flat" alt="Operational Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Performance%20Analysis-Intermediate-FFA07A?style=flat" alt="Performance Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-Intermediate-20B2AA?style=flat" alt="Decision Making Skill Badge">
 </p>
@@ -67,34 +67,5 @@ My focus is on building effective dashboards, optimizing workflows, and ensuring
   <img src="https://img.shields.io/badge/SAP-Intermediate-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Skill Badge">
   <img src="https://img.shields.io/badge/Workflow%20Optimization-Intermediate-9370DB?style=flat" alt="Workflow Skill Badge">
   <img src="https://img.shields.io/badge/Process%20Improvement-Intermediate-3CB371?style=flat" alt="Process Improvement Skill Badge">
-  <img src="https://img.shields.io/badge/Inventory%20Analysis-Intermediate-FF8C00?style=flat" alt="Inventory Skill Badge">
-</p>
-
----
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Inventory%20Analysis-Experienced-FF8C00?style=flat" alt="Inventory Skill Badge">
 </p>
