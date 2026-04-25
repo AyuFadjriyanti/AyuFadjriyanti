@@ -39,7 +39,7 @@ My focus is on building effective dashboards, optimizing workflows, and ensuring
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=posgresql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?style=flat&logo=google-sheets&logoColor=white" alt="Google Sheets Skill Badge">
   <img src="https://img.shields.io/badge/Looker%20Studio-Intermediate-4285F4?style=flat&logo=google-looker-studio&logoColor=white" alt="Looker Studio Skill Badge">
