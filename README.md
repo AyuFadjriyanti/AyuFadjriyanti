@@ -15,9 +15,9 @@
 ## 🚀 About Me 
 I'm a data-driven professional with 2+ years of experience in operations and analytics across FMCG and logistics. I specialize in transforming complex operational data into actionable insights that drive efficiency and better decision-making.
 
-I’ve delivered measurable impact, including reducing return processing time by 50% and improving data accuracy to ~97%, while identifying cost inefficiencies and stockout risks through analysis.
-
 My focus is on building effective dashboards, optimizing workflows, and ensuring data reliability, from cleaning to insight delivery. I’m passionate about turning data into clear, practical decisions that create real business value.
+
+I’m also developing my skills in data engineering, with an interest in data pipelines, ETL processes, and scalable data systems.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 My Portfolio](https://your-username.github.io/)
