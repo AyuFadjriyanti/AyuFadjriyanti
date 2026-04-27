@@ -20,7 +20,7 @@ My focus is on building effective dashboards, optimizing workflows, and ensuring
 I’m also developing my skills in data engineering, with an interest in data pipelines, ETL processes, and scalable data systems.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 My Portfolio](https://your-username.github.io/)
+### [🏆 My Portfolio](https://AyuFadjriyanti.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
